@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: made with vuepress, hosted on github
 ---
 
-I'm Aloys 29 years old, I'm currently working as an __Elite Cloud Support Engineer__ in France :fr: for [Platform.sh](https://platform.sh).
+My name is Kuba, I am 25 years old
 
 * [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)

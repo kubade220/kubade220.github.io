@@ -9,7 +9,6 @@ footer: made with vuepress, hosted on github
 
 My name is Kuba, I am 25 years old
 
-* [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
 * [<font-awesome-icon icon="code"/> XP / Technical Skills](#skills)
     * [<font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience](#sysadminxp)

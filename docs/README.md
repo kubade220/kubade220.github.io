@@ -24,10 +24,9 @@ My name is Kuba, I am 25 years old
 *Traveling and getting to know new cultures is an activity I value a lot.*
 *So far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
 
-- :fr: French (Native speaker)
-- :de: German (C2)
-- :uk: English (C1)
-- :poland: Polish (A1)
+- :de: German (A2)
+- :uk: English (B1)
+- :poland: Polish (Native speaker)
 
 <a name="projects"></a>
 <br />
@@ -39,9 +38,9 @@ My name is Kuba, I am 25 years old
 * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
 * [Update Notifier](https://github.com/trolologuy/update-notifier) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=update-notifier&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star update-notifier on GitHub"></iframe> - An utility that checks when updates for selected software is available. Built with Python3 <font-awesome-icon :icon="['fab', 'python']" />. Can be deployed through vagrant and docker <font-awesome-icon :icon="['fab', 'docker']" />. Sends notifications through Telegram <font-awesome-icon :icon="['fab', 'telegram']" /> .
 
-<a href="https://github.com/trolologuy">
+<a href="https://github.com/kubade220">
     <div style="padding: 20px; text-align: center;">
-        <img src="https://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 GitHub chart" />
+        <img src="https://ghchart.rshah.org/kubade220" alt="kubade220's 2020 GitHub chart" />
         <p><i>An overview of my GitHub contribution graph</i></p>
     </div>
 </a>

@@ -17,16 +17,6 @@ My name is Kuba, I am 25 years old
 * [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
 * [<font-awesome-icon icon="users"/> Contact](#contact)
 
-<a name="languages"></a>
-<br />
-
-## <font-awesome-icon icon="language"/> Spoken Languages
-*Traveling and getting to know new cultures is an activity I value a lot.*
-*So far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
-
-- :de: German (A2)
-- :uk: English (B1)
-- :poland: Polish (Native speaker)
 
 <a name="projects"></a>
 <br />

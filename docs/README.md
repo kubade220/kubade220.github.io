@@ -68,8 +68,35 @@ I've been the administrator for more then 10 years, tasks included:
 - managing the backup and data storage strategy on the NAS (RPI)
 - setting up the computers and managing them (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) using tools such as JAMF, teamviewer, ...
 - creating, translating and maintaining the website (based on wordpress)
-- 
-
+- Block Ads using AdGuard Home on Raspberry Pi
+- Running qBittorrent on the Raspberry Pi
+- Using the UFW Firewall on the Raspberry Pi
+- Connecting to IPVanish from your Raspberry Pi
+- Setting up a WireGuard VPN on the Raspberry Pi
+- Installing Nagios on the Raspberry Pi
+- Using Dropbox on the Raspberry Pi
+- Antivirus on a Raspberry Pi using ClamAV
+- Setting up Home Assistant on the Raspberry Pi
+- Installing Jenkins on your Raspberry Pi
+- Installing Ubuntu Server to the Raspberry Pi
+- Using IFTTT with the Raspberry Pi
+- Installing Docker on the Raspberry Pi
+- How to Setup a Raspberry Pi DNS Server
+- Install Kali Linux for the Raspberry Pi
+- Setup a Raspberry Pi Samba Server
+- Raspberry Pi Webmin: A Web Interface for System Administration
+- Raspberry Pi Pi-Hole: A Network Wide Ad-blocker
+- Raspberry Pi SSL Certificates using Let’s Encrypt
+- Simple Raspberry Pi WiFi Extender
+- Build a Raspberry Pi Twitter Bot
+- Setup a Raspberry Pi Nextcloud Server
+- Raspberry Pi VPN Access Point: Setup a Basic VPN Router
+- Raspberry Pi Email Server using Citadel
+- Raspberry Pi GITLab Server
+- Build Own Raspberry Pi VPN Server
+- Install Raspbian for the Raspberry Pi
+- Raspberry Pi ownCloud: Your Personal Cloud Storage
+- Raspberry Pi Port Forwarding & Dynamic DNS
 *System Administration or Project Management are directions in which I would like to pursue my career. Having some experience in different fields allows me to have a good insight and a more in-depth understanding of underlying issues that can be faced when managing a project, or to spot difficulties in communication between techies and management and address them.*
 
 <a name="toolbox"></a>

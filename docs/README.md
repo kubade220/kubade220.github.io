@@ -40,7 +40,7 @@ My name is Kuba, I am 25 years old
 ## <font-awesome-icon icon="code"/> XP / Technical Skills
 *You can find here a short summary of my work experience. Let’s talk about it. I’ll be really happy to give you more details and answer your questions.*
 
-*As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
+*When I started grad school I discovered how interested I was in system administration/DevOps/SRE and project management and decided to pursue it.*
 
 - 2021 Fitter-service technician Dolnet Group sp zoo 
 - 2018 Professional practice: IT technician
@@ -51,8 +51,6 @@ My name is Kuba, I am 25 years old
 
 ### <font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
 
-I have been an admin since primary school, when I became interested in the operation of server mechanisms.
-
 In middle school, I started trying to build my own private silkroad online game server. Finally, the server was installed in high school when I had enough server knowledge and budget to finish and run 
 <br />
 
@@ -61,7 +59,6 @@ In middle school, I started trying to build my own private silkroad online game
 <div style="padding: 20px; text-align: center;">
     <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
     <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/nCM00.png" href="https://stackoverflow.com/story/aloys" alt="linux administration" width="250"/></a>
-    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/5YB9e.png" href="https://stackoverflow.com/story/aloys" alt="python" width="250"/></a>
 </div>
 
 <br />

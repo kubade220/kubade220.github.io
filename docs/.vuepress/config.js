@@ -41,16 +41,6 @@ module.exports = {
       title: 'Portfolio',
       description: 'My portfolio'
     },
-    '/de/': {
-      lang: '🇩🇪 - Deutsch',
-      title: 'Portfolio',
-      description: 'Mein Portfolio'
-    },
-    '/fr/': {
-      lang: '🇫🇷 - Français',
-      title: 'Portfolio',
-      description: 'Mon Portfolio'
-    },
     '/pl/': {
       lang: '🇵🇱 - Polski',
       title: 'Portfolio',
@@ -59,7 +49,7 @@ module.exports = {
 },
   themeConfig: {
     nav: [
-      { text: 'Github', link: 'https://github.com/trolologuy', icon: 'https://github.com/trolologuy' },
+      { text: 'Github', link: 'https://github.com/kubade220', icon: 'https://github.com/kubade220' },
         ],
     // default value is true. Set it to false to hide next page links on all pages
     nextLinks: false,
@@ -68,8 +58,8 @@ module.exports = {
     search: false,
     sidebar: 'auto',
     //- Define the variables here
-    linkedin: 'https://www.linkedin.com/in/aloys-dillar/',
-    github: 'https://github.com/trolologuy/',
-    stackoverflow: 'https://stackoverflow.com/story/aloys',
+    linkedin: 'https://www.linkedin.com/in/jakub-nabywaniec/',
+    github: 'https://github.com/kubade220/',
+    stackoverflow: 'https://stackoverflow.com/users/8920982/kubade220',
   },
 }

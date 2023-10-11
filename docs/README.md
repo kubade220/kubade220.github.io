@@ -79,7 +79,6 @@ I've been the administrator for more then 10 years, tasks included:
 - [Visual Studio Code](https://code.visualstudio.com/) (with a lot of plugins)
 - [Oh My Zsh](https://ohmyz.sh/) - My favorite shell
 - [Vagrant](https://www.vagrantup.com/) - To avoid the famous "but it worked on my computer"
-- [<font-awesome-icon :icon="['fab', 'python']" /> Python](https://www.python.org/about/)
 - [<font-awesome-icon icon="terminal"/> Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
 - [Ansible](https://www.ansible.com/overview/how-ansible-works)
 - [<font-awesome-icon :icon="['fab', 'jira']" /> Jira](https://www.atlassian.com/software/jira)

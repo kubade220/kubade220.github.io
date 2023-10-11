@@ -51,7 +51,7 @@ My name is Kuba, I am 25 years old
 
 ### <font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
 
-In middle school, I started trying to build my own private silkroad online game server. Finally, the server was installed in high school when I had enough server knowledge and budget to finish and run 
+From the end of primary school, I was involved in understanding basic server concepts in the online game silkroad until the end of junior high school. In high school, I managed to run my own private online game server. And that's how it started, later on LAN on your own network devices, up to projects on RPI and clouds.  
 <br />
 
 *According to [Pluralsight IQ](https://stackoverflow.com/users/8920982/kubade220):*
@@ -68,6 +68,7 @@ I've been the administrator for more then 10 years, tasks included:
 - managing the backup and data storage strategy on the NAS (Synology)
 - setting up the computers and managing them (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) using tools such as JAMF, teamviewer, ...
 - creating, translating and maintaining the website (based on wordpress)
+- 
 
 *System Administration or Project Management are directions in which I would like to pursue my career. Having some experience in different fields allows me to have a good insight and a more in-depth understanding of underlying issues that can be faced when managing a project, or to spot difficulties in communication between techies and management and address them.*
 

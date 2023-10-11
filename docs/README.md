@@ -64,8 +64,8 @@ From the end of primary school, I was involved in understanding basic server con
 <br />
 
 I've been the administrator for more then 10 years, tasks included:
-- setting up the wifi: design the deployment, cable management, setting up the Access Points (Unifi), Setting up the Firewall (pfsense) and the VLANs, ... 
-- managing the backup and data storage strategy on the NAS (Synology)
+- setting up the wifi: design the deployment, cable management, setting up the Access Points (Mikrotik), Setting up the Firewall (pfsense) and the VLANs, ... 
+- managing the backup and data storage strategy on the NAS (RPI)
 - setting up the computers and managing them (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) using tools such as JAMF, teamviewer, ...
 - creating, translating and maintaining the website (based on wordpress)
 - 

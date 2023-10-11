@@ -107,6 +107,21 @@ I've been the administrator for more then 10 years, tasks included:
 | __Routing__ | 1 year | 
 | __Network Switches__ | 1 year  | 
 | __V-lan__ | 1 years 
+| __Azure__ | 1 years
+| __Powershell__ | 1 year
+| __DNS__ | 
+| __DHCP__ |
+| __SQL__ |
+| __Jenkins__ |
+| __AWS__ |
+| __HTTP\HTTPS__ |
+| __Kubernetes__ |
+| __Vmware__ |
+| __TCP\IP__ |
+| __Apache__ |
+| __Firewall__ |
+| __FTP/SFTP__ |
+| __Ms365__ |
 | __<font-awesome-icon :icon="['fab', 'js']" /> javascript__ | 1 year  | 
 | __<font-awesome-icon :icon="['fab', 'node']" /> node.js__ | 1 year  | 
 | __MongoDB__ | 1 year  | ★☆☆☆☆ |

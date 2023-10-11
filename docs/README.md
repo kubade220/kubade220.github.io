@@ -100,13 +100,13 @@ I've been the administrator for more then 10 years, tasks included:
 | __<font-awesome-icon :icon="['fab', 'docker']" /> Docker__ | 2 year |
 | __<font-awesome-icon :icon="['fab', 'jira']" /> jira__ | 1 years      |
 | __<font-awesome-icon :icon="['fab', 'confluence']" /> confluence__ | 1 years      
-| __C__ | 1 years      | 
+| __Active Directory__ | 1 years      | 
 | __Plesk__ | 2 years | 
-| __pfsense__ | 2 years 
+| __Internet Information Services (IIS)__ | 2 years 
 | __MySQL__ | 2 years | 
-| __ansible__ | 1 year | 
-| __grafana__ | 1 year  | 
-| __C++__ | 1 years 
+| __Routing__ | 1 year | 
+| __Network Switches__ | 1 year  | 
+| __V-lan__ | 1 years 
 | __<font-awesome-icon :icon="['fab', 'js']" /> javascript__ | 1 year  | 
 | __<font-awesome-icon :icon="['fab', 'node']" /> node.js__ | 1 year  | 
 | __MongoDB__ | 1 year  | ★☆☆☆☆ |

@@ -90,8 +90,8 @@ I've been the administrator for more then 10 years, tasks included:
 *I chose to display an estimation of the real time i spent using the different technologies I encountered, because I think that the time spent working with a specific technology is probably a better metric than a progress bar (and it's more accurate). Next to it is how I would assess my skills*
 
 ::: details See the details by clicking here
-| Technology        | Years of experience   | Self-assesment |
-| :------------- |:-------------:| :-------------:|
+| Technology        | Years of experience   |
+| :------------- |:-------------: 
 | __git__     |  6 years |
 | __<font-awesome-icon :icon="['fab', 'apple']" /> macOS__      | 5 years      |
 | __<font-awesome-icon :icon="['fab', 'windows']" /> windows__      | 12 years      |

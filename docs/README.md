@@ -79,12 +79,9 @@ I've been the administrator for more then 10 years, tasks included:
 ::: tip  <font-awesome-icon :icon="['fas', 'tools']"/> My current tools:
 - [Visual Studio Code](https://code.visualstudio.com/) (with a lot of plugins)
 - [Oh My Zsh](https://ohmyz.sh/) - My favorite shell
-- [Vagrant](https://www.vagrantup.com/) - To avoid the famous "but it worked on my computer"
 - [<font-awesome-icon icon="terminal"/> Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
-- [Ansible](https://www.ansible.com/overview/how-ansible-works)
 - [<font-awesome-icon :icon="['fab', 'jira']" /> Jira](https://www.atlassian.com/software/jira)
 - [<font-awesome-icon :icon="['fab', 'confluence']" /> Confluence](https://www.atlassian.com/software/confluence)
-- [Hammerspoon](https://www.hammerspoon.org/) - An automation tool for macOS  <font-awesome-icon :icon="['fab', 'apple']" />
 - [<font-awesome-icon :icon="['fab', 'trello']" /> Trello](https://trello.com/) - a [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) board
 :::
 

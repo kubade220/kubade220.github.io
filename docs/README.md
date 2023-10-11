@@ -92,25 +92,25 @@ I've been the administrator for more then 10 years, tasks included:
 ::: details See the details by clicking here
 | Technology        | Years of experience   | Self-assesment |
 | :------------- |:-------------:| :-------------:|
-| __git__     |  6 years | ★★★★☆  | 
-| __<font-awesome-icon :icon="['fab', 'apple']" /> macOS__      | 5 years      | ★★★★☆ |
-| __<font-awesome-icon :icon="['fab', 'windows']" /> windows__      | 12 years      | ★★★☆☆ |
-| __<font-awesome-icon :icon="['fab', 'linux']" /> linux__      | 8 years      | ★★★☆☆ |
-| __Bash__      | 5 years      | ★★★☆☆ |
-| __<font-awesome-icon :icon="['fab', 'docker']" /> Docker__ | 2 year | ★★★☆☆ |
-| __<font-awesome-icon :icon="['fab', 'jira']" /> jira__ | 1 years      | ★★★☆☆ |
-| __<font-awesome-icon :icon="['fab', 'confluence']" /> confluence__ | 1 years      | ★★★☆☆ |
-| __C__ | 1 years      | ★★★☆☆ |
-| __Plesk__ | 2 years | ★★★☆☆ |
-| __pfsense__ | 2 years | ★★★☆☆ |
-| __MySQL__ | 2 years | ★★★☆☆ |
-| __ansible__ | 1 year | ★★☆☆☆ |
-| __grafana__ | 1 year  | ★★☆☆☆ |
-| __C++__ | 1 years  | ★★☆☆☆ |
-| __<font-awesome-icon :icon="['fab', 'js']" /> javascript__ | 1 year  | ★☆☆☆☆ |
-| __<font-awesome-icon :icon="['fab', 'node']" /> node.js__ | 1 year  | ★☆☆☆☆ |
+| __git__     |  6 years |
+| __<font-awesome-icon :icon="['fab', 'apple']" /> macOS__      | 5 years      |
+| __<font-awesome-icon :icon="['fab', 'windows']" /> windows__      | 12 years      |
+| __<font-awesome-icon :icon="['fab', 'linux']" /> linux__      | 8 years      |
+| __Bash__      | 5 years      |
+| __<font-awesome-icon :icon="['fab', 'docker']" /> Docker__ | 2 year |
+| __<font-awesome-icon :icon="['fab', 'jira']" /> jira__ | 1 years      |
+| __<font-awesome-icon :icon="['fab', 'confluence']" /> confluence__ | 1 years      
+| __C__ | 1 years      | 
+| __Plesk__ | 2 years | 
+| __pfsense__ | 2 years 
+| __MySQL__ | 2 years | 
+| __ansible__ | 1 year | 
+| __grafana__ | 1 year  | 
+| __C++__ | 1 years 
+| __<font-awesome-icon :icon="['fab', 'js']" /> javascript__ | 1 year  | 
+| __<font-awesome-icon :icon="['fab', 'node']" /> node.js__ | 1 year  | 
 | __MongoDB__ | 1 year  | ★☆☆☆☆ |
-| __<font-awesome-icon :icon="['fab', 'java']" /> Java__ | 1 years | ★☆☆☆☆ |
+| __<font-awesome-icon :icon="['fab', 'java']" /> Java__ | 1 years |
 :::
 
 <a name="hobbies"></a>

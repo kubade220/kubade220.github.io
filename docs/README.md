@@ -71,13 +71,13 @@ I've been the administrator for more then 10 years, tasks included:
 - Block Ads using AdGuard Home on Raspberry Pi
 - Running qBittorrent on the Raspberry Pi
 - Using the UFW Firewall on the Raspberry Pi
-- Connecting to IPVanish from your Raspberry Pi
+- Connecting to IPVanish from Raspberry Pi
 - Setting up a WireGuard VPN on the Raspberry Pi
 - Installing Nagios on the Raspberry Pi
 - Using Dropbox on the Raspberry Pi
 - Antivirus on a Raspberry Pi using ClamAV
 - Setting up Home Assistant on the Raspberry Pi
-- Installing Jenkins on your Raspberry Pi
+- Installing Jenkins on Raspberry Pi
 - Installing Ubuntu Server to the Raspberry Pi
 - Using IFTTT with the Raspberry Pi
 - Installing Docker on the Raspberry Pi

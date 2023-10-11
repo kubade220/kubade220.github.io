@@ -97,6 +97,8 @@ I've been the administrator for more then 10 years, tasks included:
 - Install Raspbian for the Raspberry Pi
 - Raspberry Pi ownCloud: Your Personal Cloud Storage
 - Raspberry Pi Port Forwarding & Dynamic DNS
+- 
+  
 *System Administration or Project Management are directions in which I would like to pursue my career. Having some experience in different fields allows me to have a good insight and a more in-depth understanding of underlying issues that can be faced when managing a project, or to spot difficulties in communication between techies and management and address them.*
 
 <a name="toolbox"></a>

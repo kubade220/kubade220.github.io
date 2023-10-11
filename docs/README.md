@@ -54,7 +54,7 @@ My name is Kuba, I am 25 years old
 In middle school, I started trying to build my own private silkroad online game server. Finally, the server was installed in high school when I had enough server knowledge and budget to finish and run 
 <br />
 
-*According to [Pluralsight IQ](https://stackoverflow.com/story/kubade220):*
+*According to [Pluralsight IQ](https://stackoverflow.com/users/8920982/kubade220):*
 
 <div style="padding: 20px; text-align: center;">
     <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>

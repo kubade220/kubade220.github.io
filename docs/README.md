@@ -42,28 +42,21 @@ My name is Kuba, I am 25 years old
 
 *As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
 
-- :earth_africa: 2023 - current position : "__Elite Cloud Support Engineer__" working from the Homeoffice
-- :earth_africa: 2021 - 2023 : "__Technical Writer__" working from the Homeoffice
-- :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" working from the Homeoffice
-- :poland: 2019 - 2020: "__Operations Coordinator__" in Poland.
-- :de: 2018 - 2019: "__Web Support agent__" in Germany.
-- :de: 2016 - 2018: German Apprenticeship as "__Computer Science Expert with focus on System Integration__".
-- :fr: 2012 - 2014: Computer science studies in Epitech Strasbourg + 6 month Internship
+- 2021 Fitter-service technician Dolnet Group sp zoo 
+- 2018 Professional practice: IT technician
+- 2014 - 2019: Technical School Technician, Computer Science
 
 <a name="sysadminxp"></a>
 <br />
 
 ### <font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
-During my apprenticeship I was the only Sysadmin in the company, setting up maintaining and securing servers and services but also managing users.
 
-Amongst other tools and services, I deployed Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) for the communication between the company and external contributors (a few hundred users in total), different mail servers (courier IMAP → Dovecot) and Webhosting Services (Confixx → Plesk migration, Apache / Nginx), ... I automated tasks using Bash and several CLI tools (IMAPsync, mjml.io ...).
+I have been an admin since primary school, when I became interested in the operation of server mechanisms.
 
-In the middle of my apprenticeship, I decided to change the company to join OVHcloud.
-My final project for the apprenticeship was setting up a clustered ELK-Stack (Elasticsearch, Kibana, Logstash) to monitor a fleet of machines and gain more insights about the performance of those machines.
-
+In middle school, I started trying to build my own private silkroad online game server. Finally, the server was installed in high school when I had enough server knowledge and budget to finish and run 
 <br />
 
-*According to [Pluralsight IQ](https://stackoverflow.com/story/aloys):*
+*According to [Pluralsight IQ](https://stackoverflow.com/story/kubade220):*
 
 <div style="padding: 20px; text-align: center;">
     <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
